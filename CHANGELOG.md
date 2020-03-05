@@ -9,3 +9,7 @@
 ### Updates
 - update to Angular 9
 - update all dependencies to match Angular 9 version
+
+## [1.1.1] 2020-03-05
+### Update
+- Remove .git, .gitignore files

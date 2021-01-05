@@ -13,3 +13,8 @@
 ## [1.1.1] 2020-03-05
 ### Update
 - Remove .git, .gitignore files
+
+## [1.2.0] 2021-01-05
+### Updates
+- update to Angular 11
+- update all dependencies to match Angular 11 version

@@ -18,3 +18,9 @@
 ### Updates
 - update to Angular 11
 - update all dependencies to match Angular 11 version
+
+## [1.3.0] 2022-05-02
+### Updates
+- update to Angular 13
+- update all dependencies to match Angular 13 version
+- cosmetic issues fixed ie carousel, collapsable, glidjs images, card images, accordion, dropdown
